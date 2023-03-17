@@ -18,7 +18,6 @@ add banner (use your links) :
 [! [MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM.)] (https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Azara Surti</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fstartupsmagazine.co.uk%2Farticle-government-coding-what-could-go-wrong&psig=AOvVaw1vqczugmwY2EjqjNxFfEXW&ust=1679115151241000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCOi4rcOV4v0CFQAAAAAdAAAAABBX">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=azarasurti&label=Profile%20views&color=0e75b6&style=flat" alt="azarasurti" /> </p>
 
